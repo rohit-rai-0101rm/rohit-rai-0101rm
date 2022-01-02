@@ -11,7 +11,6 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 
  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -25,7 +24,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
 
 
 <br/>
@@ -36,7 +34,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rohit-rai-714986208/"></a>
+<a href="https://www.linkedin.com/in/rohit-rai-714986208/">Linkden</a>
 <a href="rohit0101rm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/rohit0101rm@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
