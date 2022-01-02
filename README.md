@@ -36,8 +36,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rohit-rai-714986208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="rohit0101rm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/rohit-rai-714986208/"><img alt="LinkedIn" src="https://media-exp1.licdn.com/dms/image/C5603AQFQBfU_KsRz6A/profile-displayphoto-shrink_400_400/0/1629788937609?e=1646870400&v=beta&t=rKiwniWap1B8SuMv2PfZA1CtuG93JSNjFEwsY-QBwug"></a>
+<a href="rohit0101rm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/rohit0101rm@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [ROHIT](https://github.com/rohit-rai-0101rm)
