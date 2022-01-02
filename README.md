@@ -28,12 +28,3 @@
 
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rohit-rai-714986208/">Linkden</a>
-<a href="rohit0101rm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/rohit0101rm@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-⭐️ From [ROHIT](https://github.com/rohit-rai-0101rm)
