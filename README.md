@@ -11,7 +11,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
- 
+ <a href="https://app.daily.dev/rohitrai62rohitrai275101"><img src="https://api.daily.dev/devcards/9853f86273fe4849a7b82ba17623963e.png?r=v9i" width="400" alt="Rohit Rai's Dev Card"/></a>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
