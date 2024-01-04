@@ -1,6 +1,4 @@
-<div align="right">
-  <a href="https://app.daily.dev/rohitrai62rohitrai275101"><img src="https://api.daily.dev/devcards/9853f86273fe4849a7b82ba17623963e.png?r=v9i" width="200" alt="Rohit Rai's Dev Card"/></a>
-</div>
+| <div align="left">
 
 # Hey there! I'm Rohit.
 
@@ -24,3 +22,10 @@
 - ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+</div>
+
+| <div align="right">
+
+<a href="https://app.daily.dev/rohitrai62rohitrai275101"><img src="https://api.daily.dev/devcards/9853f86273fe4849a7b82ba17623963e.png?r=v9i" width="200" alt="Rohit Rai's Dev Card"/></a>
+
+</div>
