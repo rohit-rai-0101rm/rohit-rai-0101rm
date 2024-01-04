@@ -27,7 +27,7 @@
   </div>
 </div>
 
-<div align="right">
+<div align="center">
   <a href="https://app.daily.dev/rohitrai62rohitrai275101">
     <img src="https://api.daily.dev/devcards/9853f86273fe4849a7b82ba17623963e.png?r=v9i" width="200" alt="Rohit Rai's Dev Card"/>
   </a>
