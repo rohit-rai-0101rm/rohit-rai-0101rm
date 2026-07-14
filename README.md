@@ -66,19 +66,6 @@ An autonomous multi-step agent pipeline: discovers local businesses via the Goog
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-rai-0101rm&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-rai-0101rm&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-rai-0101rm&hide_border=true" alt="Streak stats"/>
-</p>
-
----
-
 <p align="center">
   ⚡ <i>Fun fact: I once debugged for hours… only to find the bug was in a comment.</i>
 </p>
