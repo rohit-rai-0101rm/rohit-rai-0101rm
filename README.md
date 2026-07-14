@@ -1,36 +1,88 @@
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
-<h3 align="center">Frontend Engineer | Mobile Developer | DevOps Practitioner | Exploring LLMs</h3>
+<h3 align="center">Generative AI Engineer | Agentic Systems & RAG | Full-Stack Foundation (React · React Native · Node · Python)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-rai-0101rm&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-rai-0101rm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-rai-0101rm" alt="rohit-rai-0101rm" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/now_rohit" target="blank"><img src="https://img.shields.io/twitter/follow/now_rohit?logo=twitter&style=for-the-badge" alt="now_rohit" /></a> </p>
-
-- 🔭 I’m currently working on **I’m currently working on building scalable mobile and web applications using React and React Native, automating deployment pipelines with DevOps best practices, and exploring large language models (LLMs) to integrate AI into real-world projects.**
-
-- 🌱 I’m currently learning **AWS,LLM**
-
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on unique projects in the AI and book space—building smarter tools that combine large language models with user-driven storytelling and deep content interaction.**
-
-- 💬 Ask me about **javascript,react, react native , nextjs, node ,devops,ai**
-
-- 📫 How to reach me **rohitrai275101@gmail.com**
-
-- ⚡ Fun fact **I once debugged for hours… only to find the bug was in a comment**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/now_rohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="now_rohit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-rai-700980258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-rai-700980258/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rohitrai.0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rohitrai.0707" height="30" width="40" /></a>
+<p align="center">
+  I build LLM systems that hold up in production — agents, RAG pipelines, and the evaluation layers that make them trustworthy.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-rai-700980258/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rohitrai275101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/now_rohit"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-rai-0101rm&show_icons=true&locale=en&layout=compact" alt="rohit-rai-0101rm" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-rai-0101rm&show_icons=true&locale=en" alt="rohit-rai-0101rm" /></p>
+## 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-rai-0101rm&" alt="rohit-rai-0101rm" /></p>
+### 📊 AI Investor Intelligence Platform
+**Python · FastAPI · RAG · ChromaDB · PostgreSQL · Docker** — *Live on Hugging Face Spaces*
+
+An end-to-end RAG system that ingests company annual-report PDFs and turns them into trustworthy, structured intelligence.
+
+- **Pipeline:** OCR → semantic chunking → local `sentence-transformers` embeddings → ChromaDB → LLM extraction of **8 financial KPIs** with JSON-schema (Pydantic) validation
+- **Grounded chat:** answers only from ingested documents, with explicit refusal behavior when the answer isn't in the source
+- **Production observability:** every request traced with a `request_id`; per-stage latency, token, and cost metrics persisted to Postgres
+- **Evaluation as a first-class citizen:** automated eval harness — deterministic checks + **LLM-as-judge groundedness scoring** — that **gates CI**: below 80% pass rate, or any hallucination regression failure, deployment is blocked
+- Born from a real incident: the model once fabricated a citation to a document that was never ingested. That exact failure is now a permanent adversarial regression test.
+
+🔗 **Live demo:** *coming soon* &nbsp;|&nbsp; 📁 **Repo:** *link coming soon*
+
+---
+
+### 🤖 LeadRadar — Agentic Business-Audit System
+**Python · Playwright · Multi-Provider LLM Router · Vision LLM** — *32 passing tests*
+
+An autonomous multi-step agent pipeline: discovers local businesses via the Google Places API, audits their websites with Playwright + a vision-capable LLM, and scores each as a lead — fully dynamic CLI.
+
+- **Fault-tolerant multi-provider LLM router** across Groq / Gemini / OpenRouter: per-key cooldowns, in-provider key rotation, automatic cross-provider failover — the pipeline **survived real quota exhaustion mid-run** without the caller ever seeing a failure
+- **Normalized failure handling:** providers returning HTTP 200 with malformed payloads trigger failover exactly like 429s — because in multi-provider systems, you validate the payload, not the status code
+- **Deliberate agent boundaries:** LLM judgment only where judgment is needed (visual verdicts); scoring is deterministic, explainable math; humans stay in the loop for irreversible actions
+- Built via a formal SRS with **checkpoint-based milestones** and a `CLAUDE.md` project-memory workflow — every checkpoint shipped runnable, tested code before the next began
+
+📁 **Repo:** *link coming soon*
+
+---
+
+## 🧠 What I Work With
+
+**GenAI / Agentic:** LLM applications · RAG pipelines · agentic tool-calling loops · multi-provider LLM routing · embeddings & vector databases (ChromaDB) · LLM evals (LLM-as-judge, groundedness, CI gating) · prompt engineering · Anthropic API · Claude Code *(Anthropic Skilljar Certified, 2026)*
+
+**Backend:** Python (FastAPI, Pydantic, Playwright, pytest) · Node.js · REST APIs · PostgreSQL · MongoDB · Firebase · Docker · AWS (EC2)
+
+**Frontend & Mobile:** React.js · React Native (CLI & Expo) · TypeScript · Next.js · Redux Toolkit · EAS Build & OTA Updates
+
+**Delivery:** GitHub Actions CI/CD · agentic coding workflows · SRS-driven, checkpoint-based builds
+
+---
+
+## 🔭 Currently
+
+- Building and shipping agentic AI systems — currently adding **LangGraph orchestration**, **re-ranking / hybrid search**, and **Langfuse tracing** to my stack
+- Exploring where LLMs meet real business workflows: document intelligence, autonomous audit pipelines, and evaluation-driven development
+- Open to **Generative AI / Applied AI / Forward Deployed** engineering roles
+
+> My working belief: **evaluation is what separates AI demos from AI products.** If you can't measure groundedness, you're shipping vibes.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-rai-0101rm&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-rai-0101rm&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-rai-0101rm&hide_border=true" alt="Streak stats"/>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>Fun fact: I once debugged for hours… only to find the bug was in a comment.</i>
+</p>
+
+<p align="center">
+  📫 Reach me: <b>rohitrai275101@gmail.com</b>
+</p>
